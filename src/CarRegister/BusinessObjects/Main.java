@@ -5,9 +5,7 @@ import CarRegister.BusinessObjects.Persons.Person;
 
 public class Main {
 
-	/**
-	 * @param args
-	 */
+	
 	public static void main(String[] args) {
 		
 		Person p = new Person("Adam");
